@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Tarefas - Spring Boot
 
-![Java](https://img.shields.io/badge/Java-17-orange)
+![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
